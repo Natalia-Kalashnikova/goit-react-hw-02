@@ -1,6 +1,16 @@
 .container {
-  width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 30px;
+  font-family: Inter, system-ui, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  font-size: 18px;
+  margin: 0;
+
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  justify-content: center;
+  padding-left: 20px;
+}
+.read-the-docs {
+  color: #888;
 }
